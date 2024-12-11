@@ -1,11 +1,11 @@
 ﻿// ****************************************************************
-// * EasyPI v1.4
+// * EasyPI v2.0
 // * Author: BarRaider
 // *
 // * JS library to simplify the communication between the 
 // * Stream Deck's Property Inspector and the plugin.
 // *
-// * Project page: https://github.com/BarRaider/streamdeck-easypi
+// * Project page: https://github.com/BarRaider/streamdeck-easypi-v2
 // * Support: http://discord.barraider.com
 // *
 // * Initially forked from Elgato's common.js file

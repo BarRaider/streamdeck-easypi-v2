@@ -1,11 +1,11 @@
 // ****************************************************************
-// * EasyPI v1.3
+// * EasyPI v2.0
 // * Author: BarRaider
 // *
 // * rangeTooltip.js adds a tooltip showing the value of a range slider.
 // * Requires rangeTooltip.css to be referenced in the HTML file.
 // *
-// * Project page: https://github.com/BarRaider/streamdeck-easypi
+// * Project page: https://github.com/BarRaider/streamdeck-easypi-v2
 // * Support: http://discord.barraider.com
 // ****************************************************************
 
