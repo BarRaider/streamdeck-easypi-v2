@@ -1,4 +1,4 @@
-# StreamDeck EasyPI
+# StreamDeck EasyPI-v2
 
 This library is meant to simplify the communication between the Property Inspector and your plugin.
 By sticking to a few guidelines, the library will own setting and getting the various settings for your plugin.
